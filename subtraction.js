@@ -1,5 +1,9 @@
 function subtract(a, b) {
-  return '?';
+  return a-b;
 }
+/*
+youpi
 
+
+*/
 calculate('subtraction', subtract);
